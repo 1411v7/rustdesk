@@ -1,3 +1,6 @@
 [submodule "libs/hbb_common"]
 	path = libs/hbb_common
-	url = https://github.com/1411v7/hbb_common
+	url = https://github.com/rustdesk/hbb_common
+[submodule "hbb_common"]
+	path = hbb_common
+	url = https://github.com/1411v7/hbb_common.git
